@@ -12,7 +12,7 @@ FrogGuard는 양서류의 건강과 편안한 환경을 위해 온습도를 모�
 
 ## 개발 환경
 
-# React Native  
+### React Native  
 "@react-navigation/native-stack": "^6.9.26",  
 "@react-navigation/stack": "^6.3.29",  
 "axios": "^1.7.2",  
@@ -28,12 +28,12 @@ FrogGuard는 양서류의 건강과 편안한 환경을 위해 온습도를 모�
 "short-uuid": "^5.2.0",  
 "uuid": "^9.0.1"  
   
-# Raspberry Pi   
+### Raspberry Pi   
 Raspberry Pi 3 Model B  
   
-# Flask  
+### Flask  
   
-# MySQL  
+### MySQL  
 8.0.21  
   
 ## 사용 방법  
