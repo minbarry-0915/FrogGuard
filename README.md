@@ -7,12 +7,12 @@ FrogGuard는 양서류의 건강과 편안한 환경을 위해 온습도를 모�
 최종발표자료 [PDF](./docs/[1-15]임베디드시스템_최종발표자료_고의석,이지민.pdf)
 
 ## 개발자
-이지민
+이지민  
 고의석
 
 ## 개발 환경
 
-#React Native
+#React Native  
 "@react-navigation/native-stack": "^6.9.26",  
 "@react-navigation/stack": "^6.3.29",  
 "axios": "^1.7.2",  
