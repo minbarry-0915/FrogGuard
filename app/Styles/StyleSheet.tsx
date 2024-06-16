@@ -49,7 +49,6 @@ const styles = StyleSheet.create({
     mainText: {
         color: 'white',
         fontFamily: 'Lexend-Regular',
-        fontWeight: 'medium',
         fontSize: 16,
     },
     HummidityContainer:{
