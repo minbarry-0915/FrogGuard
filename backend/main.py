@@ -11,7 +11,7 @@ CORS(app)  # CORS 설정
 
 # MySQL 데이터베이스 연결 설정
 db = mysql.connector.connect(
-    host="192.168.0.7",       # MySQL 서버 호스트
+    host="your host ip",       # MySQL 서버 호스트
     user="root",              # MySQL 사용자 이름
     password="root",          # MySQL 비밀번호
     database="raspi_db"       # 사용할 데이터베이스 이름
